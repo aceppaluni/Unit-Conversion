@@ -1,2 +1,2 @@
 # Unit-Conversion
-This will conver units of Mass, Volume, and length.
+The app will convert units of Mass, Volume, and length.
